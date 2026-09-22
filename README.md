@@ -1,4 +1,4 @@
-# IT-Kamianets 3D Engine — Unity Interaction
+# IT-Kamianets 3D Engine: Unity Interaction
 
 `3d-unity-interaction` provides reusable 3D editing and object manipulation functionality for the **IT-Kamianets 3D Engine**.
 
