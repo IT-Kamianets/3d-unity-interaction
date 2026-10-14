@@ -1,0 +1,19 @@
+{
+    "name": "ITKamianets.Engine.Interaction",
+    "rootNamespace": "ITKamianets.Engine.Interaction",
+    "references": [
+        "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.Scene",
+        "ITKamianets.Engine.Input",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

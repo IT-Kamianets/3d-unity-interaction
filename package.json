@@ -1,0 +1,21 @@
+{
+  "name": "com.itkamianets.3d-unity-interaction",
+  "version": "0.1.0",
+  "displayName": "IT-Kamianets 3D Engine: Unity Interaction",
+  "description": "Generic scene editing for objects loaded by 3d-unity-scene: selection and picking, move/rotate/scale/duplicate/delete with grid, rotation and surface snapping, undo/redo, input through 3d-unity-input.",
+  "unity": "6000.6",
+  "license": "MIT",
+  "author": {
+    "name": "IT Kamianets"
+  },
+  "keywords": [
+    "3d-engine",
+    "it-kamianets"
+  ],
+  "dependencies": {
+    "com.itkamianets.3d-unity-core": "0.1.0",
+    "com.itkamianets.3d-unity-scene": "0.1.0",
+    "com.itkamianets.3d-unity-input": "0.1.0",
+    "com.unity.modules.physics": "1.0.0"
+  }
+}
